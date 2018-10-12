@@ -1,0 +1,135 @@
+.navbar-light .navbar-brand{
+    color: rgba(107, 145, 250, 0.979);
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgba(107, 145, 250, 0.979);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: rgba(107, 145, 250, 0.979);
+}
+
+.jumbotron{
+    background-image: url(sky.jpeg);
+    background-attachment: fixed;
+    background-size:cover;
+    text-shadow: 3px 3px 3px aliceblue;
+    text-align: center;
+    padding: 80px;
+}
+
+}
+.display-4{
+    font-size: 100;
+    font-style: italic;
+}
+
+.lead{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Shrikhand', cursive;
+}
+
+h5{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color:rgba(107, 145, 250, 0.979);
+}
+
+#purple{
+    background-color:rgba(107, 145, 250, 0.979);
+    color: aliceblue;
+    padding:10px;
+}
+
+a {
+    color: rgba(107, 145, 250, 0.979);
+}
+
+.btn{
+    color: rgba(107, 145, 250, 0.979);
+    font-size: 30px;
+    text-align: justify;
+}
+#slideshow{
+    padding: 20px
+}
+.picture{
+    height: 250px;
+    border-color: aliceblue;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 4px;
+    box-shadow:45px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto; 
+}
+
+#travel{
+    height: 200px;
+    border-color: aliceblue;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 4px;
+    box-shadow:45px;
+    }
+
+#title{
+    color:rgba(107, 145, 250, 0.979);
+}
+#links{
+    padding:20px;
+}
+.w-100 {
+    width: 100%!important;
+}
+
+.table{
+    font-family: 'Kodchasan', sans-serif;
+    color:rgba(107, 145, 250, 0.979);
+}
+#firsttable{
+    color: aliceblue
+}
+#carousel1{
+    max-width: 600px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#video1{
+    max-width: 600px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+
+font-family: 'Dancing Script', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Concert One', cursive;
+font-family: 'Shrikhand', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Luckiest Guy', cursive
